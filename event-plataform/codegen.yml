@@ -6,3 +6,11 @@ generates:
       - typescript
       - typescript-operations
       - typescript-react-apollo
+
+      config: 
+      reactApolloVersion: 3
+      withhooks: true
+      withHOC: false
+      withComponent: false
+
+    
